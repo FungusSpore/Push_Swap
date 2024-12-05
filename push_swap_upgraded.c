@@ -6,13 +6,11 @@
 /*   By: jianwong <jianwong@student.42kl.edu.my>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/04 17:11:42 by jianwong          #+#    #+#             */
-/*   Updated: 2024/12/05 15:52:32 by jianwong         ###   ########.fr       */
+/*   Updated: 2024/12/05 21:41:11 by jianwong         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft/libft.h"
 #include "push_swap.h"
-
 
 int	ft_atol(const char *nptr)
 {
